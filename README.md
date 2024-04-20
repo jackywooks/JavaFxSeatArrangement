@@ -1,1 +1,1 @@
-# JavaFxSeatArrangement
+# JavaFxSeatArrangementApplication
